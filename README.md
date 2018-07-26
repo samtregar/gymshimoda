@@ -1,2 +1,0 @@
-# gymshimoda
-Stack those chips!
